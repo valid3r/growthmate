@@ -1,0 +1,36 @@
+.growthmate-row {
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+.growthmate-col-left {
+  padding-right: 0px !important;
+}
+
+.growthmate-col-right {
+  padding-left: 0px !important;
+}
+
+.growthmate-left-card {
+  border-right: 1px solid #0000001f;
+}
+
+.hover-icons {
+  --margin-right: -8px;
+  float: right;
+  display: none;
+}
+
+.icons-table-row {
+  padding: 0px !important;
+}
+
+.icon-container {
+  padding: 0.75rem 0.75rem;
+  padding-left: 20px;
+  margin: 0px;
+}
+
+.icons-table-row:hover .hover-icons {
+  display: block !important;
+}
